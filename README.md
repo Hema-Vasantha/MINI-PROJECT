@@ -1,1 +1,1 @@
-# MINI-PROJECT
+# Infosys Project
